@@ -254,4 +254,3 @@ int main() {
 
 
 
->>>>>>> solve-Ex3
